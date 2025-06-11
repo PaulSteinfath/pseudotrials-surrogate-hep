@@ -1,0 +1,8 @@
+# Exclude inclusion_exclusion folder
+settings/inclusion_exclusion/
+settings/LDA/
+# Other common files to ignore (optional)
+*.asv
+*.m~
+.DS_Store
+Thumbs.db

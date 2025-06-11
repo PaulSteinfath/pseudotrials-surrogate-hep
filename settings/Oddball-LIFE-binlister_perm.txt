@@ -1,0 +1,111 @@
+bin 1
+HEP before high-amplitude target (88202)
+.{88202}
+
+bin 2  
+HEP before low-amplitude target (88201)
+.{88201}
+
+bin 3
+Target with high HEP prestim (88222)
+.{88222}
+
+bin 4
+Target with low HEP prestim (88221)
+.{88221}
+
+bin 5
+HEP before high RT target (208872)
+.{208872}
+
+bin 6
+HEP before low RT target (208871)
+.{208871}
+
+bin 7
+Target high RT (2072)
+.{2072}
+
+bin 8
+Target low RT (2071)
+.{2071}
+
+bin 9
+HEP before high-amplitude target + perm marker (882023)
+.{882023}
+
+bin 10
+HEP before low-amplitude target + perm marker (882013)
+.{882013}
+
+bin 11
+Target with high HEP prestim + perm marker (882223)
+.{882223}
+
+bin 12
+Target with low HEP prestim + perm marker (882213)
+.{882213}
+
+bin 13
+HEP before high RT target + perm marker (2088723)
+.{2088723}
+
+bin 14
+HEP before low RT target + perm marker (2088713)
+.{2088713}
+
+bin 15
+Target high RT + perm marker (20723)
+.{20723}
+
+bin 16
+Target low RT + perm marker (20713)
+.{20713}
+
+bin 17
+Target with R prestim (8822)
+.{8822}
+
+bin 18
+R before target (8820)
+.{8820}
+
+bin 19
+Target with pseudo R prestim (48822)
+.{48822}
+
+bin 20
+Pseudo R before target (48820)
+.{48820}
+
+bin 21
+Target with random R prestim (88822)
+.{88822}
+
+bin 22
+Random R before target (88820)
+.{88820}
+
+bin 23
+Target with R prestim + perm marker (88223)
+.{88223}
+
+bin 24
+R before target + perm marker (88203)
+.{88203}
+
+bin 25
+Target with pseudo R prestim + perm marker (488223)
+.{488223}
+
+bin 26
+Pseudo R before target + perm marker (488203)
+.{488203}
+
+bin 27
+Target with random R prestim + perm marker (888223)
+.{888223}
+
+bin 28
+Random R before target + perm marker (888203)
+.{888203}
